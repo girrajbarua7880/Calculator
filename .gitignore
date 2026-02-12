@@ -7,13 +7,11 @@ venv/
 env/
 
 # Django
-db.sqlite3
 .env
 
 # Static & media
 /staticfiles/
 /media/
-
 # IDE
 .vscode/
 .idea/
